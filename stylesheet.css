@@ -6,3 +6,10 @@ header{
 header a{
  float:right
 }
+.head-wrapper{
+ text-align:center
+ height: 
+}
+.head-wrapper h1{
+ font-size:50px
+}
